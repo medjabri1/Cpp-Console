@@ -1,0 +1,12 @@
+
+Fichier Client :
+
+	ID-Client Nom Prenom Profession NumTel
+
+
+============================================================
+
+
+Fichier Compte :
+
+	ID-Compte ID-Client Solde Date heure
